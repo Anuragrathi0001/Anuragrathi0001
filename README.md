@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anuragrathi0001
-- 👀 I’m interested in learning new twchnologies.
+- 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning react js 
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me >>rathisanjita32@gmail.com
