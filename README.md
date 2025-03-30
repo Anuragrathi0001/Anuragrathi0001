@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning node js amd dsa using cpp.
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me >>rathisanjita32@gmail.com
+- 📫 How to reach me >>cse23329@glbitm.ac.in
 
 
 <!---
